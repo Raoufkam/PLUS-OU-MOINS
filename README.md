@@ -1,6 +1,6 @@
-#    | PLUS-OU-MOINS | #
+#    | PLUS-OU-MOINS ✖️ ➖ | #
 
-## *//// Un jeu qui se base sur les nombres \\\\\\\\* 
+## *//// Un jeu qui se base sur les nombres  🔢 \\\\\\\\* 
 
 * Un jeu minimaliste avec des nombres représenté dans un terminal, le but est de retrouver la bonne valeur .  
 * La valeur vas être choisi aléatoirement par un générateur de nombre entre 0-100 .  
