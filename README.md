@@ -14,4 +14,8 @@
 2. Lancer un __make__ dans le dossier où vous avez déposez le fichier PLUSOUMOIN.c  
 `` $ make ``  
 `` $ ./Plusoumoins``
-3. Une fois que vous avez taper ces deux lignes de commande le jeu est lancer et vous avez un multichoix de niveau qui s'affiche sur votre terminal
+3. Une fois que vous avez taper ces deux lignes de commande le jeu est lancer et vous avez un multichoix de niveau qui s'affiche sur votre terminal  
+
+  ![Niveaux](CaptureNiveaux.png)
+  
+4. ils vous restent qu'a choisir le niveau qui vous corresepond et c'est bon vous pouvez commencer à deviner le nombre caché !
